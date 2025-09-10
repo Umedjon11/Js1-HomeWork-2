@@ -145,4 +145,4 @@ console.log(result); //'12345'
 
 ## 🛠️ **resurce**
 
-- [**Js-lecture-1**](https://www.canva.com/design/DAGVRMGhGek/BBk6e7-80rD60KOpBBjCUg/view?utm_content=DAGVRMGhGek&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h91b895d73d#2)
+- [**Js-lecture-2**](https://www.canva.com/design/DAGVRMGhGek/BBk6e7-80rD60KOpBBjCUg/view?utm_content=DAGVRMGhGek&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h91b895d73d#2)
